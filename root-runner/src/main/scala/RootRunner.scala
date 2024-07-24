@@ -6,4 +6,6 @@ object RootRunner extends App {
 
   println(s"SophisticMLAlgorithm1.calculateMult(2, 3) = ${SophisticMLAlgorithm1.calculateMult(2, 3)}")
 
+  println(s"SophisticMLAlgorithm1.calculateSub(2, 3) = ${SophisticMLAlgorithm1.calculateSub(2, 3)}")
+
 }
