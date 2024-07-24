@@ -1,6 +1,8 @@
 import scala.util.{Success, Try}
 
-object Application extends App {
+object CoreRunner extends App {
+
+  println("CoreRunner")
 
   args.toList match {
     case a :: b :: _ =>
